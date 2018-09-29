@@ -2,7 +2,6 @@ package io.javabrains.springbootstarter.topic.course;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
-import javax.persistence.ManyToOne;
 
 import io.javabrains.springbootstarter.topic.Topic;
 
