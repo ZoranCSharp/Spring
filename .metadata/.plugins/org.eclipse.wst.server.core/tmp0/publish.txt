@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sun Sep 30 21:29:49 GMT+01:00 2018
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\ROBOTECH\\.m2\\repository\\org\\springframework\\spring-web\\3.2.0.RELEASE\\spring-web-3.2.0.RELEASE.jar=C\:\\Spring\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\FitnessTrainer\\WEB-INF\\lib\\spring-web-3.2.0.RELEASE.jar
+org.eclipse.jst.j2ee.server\:FitnessTrainer=C\:\\Spring\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\FitnessTrainer
